@@ -21,15 +21,15 @@ Desenvolvido para o **2º Concurso de Reúso de Dados Abertos da Controladoria-G
 
 Os dados utilizados são provenientes do **PRODES** (Programa de Monitoramento do Desmatamento da Amazônia Legal por Satélite), do **INPE** (Instituto Nacional de Pesquisas Espaciais), disponibilizados em formato aberto.
 
-O conjunto original é um shapefile com um registro por polígono/mancha de desmatamento detectada (mais de 835 mil registros), contendo estado, ano, área em km², tipo de desmatamento, satélite/sensor utilizado na detecção, entre outros atributos. Os dados foram agregados para uso neste painel — os arquivos processados estão na pasta `data/`.
+O conjunto original é um shapefile com um registro por polígono/mancha de desmatamento detectada (mais de 835 mil registros), contendo estado, ano, área em km², tipo de desmatamento, satélite/sensor utilizado na detecção, entre outros atributos. Os dados foram agregados para uso neste painel, os arquivos processados estão na pasta `data/`.
 
 **Nota de qualidade dos dados:** o detalhamento por subtipo de desmatamento (`sub_class`) só está disponível de forma consistente a partir de determinados anos; períodos anteriores aparecem categorizados como "sem subtipo detalhado (legado)".
 
 ## 🛠️ Tecnologias
 
-- [Streamlit](https://streamlit.io/) — interface e servidor do painel
-- [Pandas](https://pandas.pydata.org/) — manipulação dos dados agregados
-- [Plotly](https://plotly.com/python/) — visualizações interativas
+- [Streamlit](https://streamlit.io/): interface e servidor do painel
+- [Pandas](https://pandas.pydata.org/): manipulação dos dados agregados
+- [Plotly](https://plotly.com/python/): visualizações interativas
 
 ## 🚀 Rodando localmente
 
