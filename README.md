@@ -4,7 +4,7 @@ Painel interativo em Streamlit com dados abertos do PRODES/INPE sobre desmatamen
 
 Desenvolvido para o **2º Concurso de Reúso de Dados Abertos da Controladoria-Geral da União (CGU)**.
 
-🔗 **Acesse o painel online:** _[link após o deploy]_
+🔗 **Acesse o painel online:** _[https://desmatamento-amazonia.streamlit.app/]_
 
 ---
 
