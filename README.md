@@ -1,10 +1,10 @@
-# 🌳 Amazônia Legal — Painel de Desmatamento
+# 🌳 Amazônia Legal - Painel de Desmatamento
 
 Painel interativo em Streamlit com dados abertos do PRODES/INPE sobre desmatamento na Amazônia Legal (2008–2025). Mostra evolução anual, ranking por estado e tipos de desmatamento, com pontos de inflexão associados a mudanças de política pública.
 
 Desenvolvido para o **2º Concurso de Reúso de Dados Abertos da Controladoria-Geral da União (CGU)**.
 
-🔗 **Acesse o painel online:** _[https://desmatamento-amazonia.streamlit.app/]_
+🔗 **Acesse o painel online:** https://desmatamento-amazonia.streamlit.app/
 
 ---
 
